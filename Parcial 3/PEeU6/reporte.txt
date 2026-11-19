@@ -1,0 +1,15 @@
+Reporte general
+No. cuenta   Nombre                    Balance
+777          Samuel de Luque           777777.00
+7            Cristiano Ronaldo         985.00
+72           Don Ramon                 -150000.00
+10           Ronaldinho                -50000.00
+64           Steve                     0.00
+1            Asta                      0.00
+
+Total cuentas con balance 0: 2
+Total cuentas con balance de credito: 2
+Total cuentas con balance de debito: 2
+
+Balance total en creditos: -200000.00
+Balance total en debito: 778762.00

@@ -1,0 +1,4 @@
+Nombre	Categoria	Fecha	Tamano	Origen	Velocidad
+Otis	5	25/10/2023	185.00	9.8 N 96.5 0	270.00
+Katrina	5	23/08/2005	640.00	23.1 N 75.1 O	280.00
+Hanna	1	23/07/2020	220.00	26 N 90 O	150.00
